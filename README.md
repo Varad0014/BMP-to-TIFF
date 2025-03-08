@@ -1,5 +1,7 @@
 # README
 
+## Description
+This program converts a Bitmap (.bmp) image to a TIFF (.tiff) image using a command-line interface.
 
 ## Build Instructions
 
